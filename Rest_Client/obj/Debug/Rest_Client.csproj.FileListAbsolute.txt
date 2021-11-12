@@ -1,0 +1,10 @@
+C:\Users\vladi\RiderProjects\Rest_Client\Rest_Client\bin\Debug\Rest_Client.exe.config
+C:\Users\vladi\RiderProjects\Rest_Client\Rest_Client\bin\Debug\Rest_Client.exe
+C:\Users\vladi\RiderProjects\Rest_Client\Rest_Client\bin\Debug\Rest_Client.pdb
+C:\Users\vladi\RiderProjects\Rest_Client\Rest_Client\obj\Debug\Rest_Client.csprojAssemblyReference.cache
+C:\Users\vladi\RiderProjects\Rest_Client\Rest_Client\obj\Debug\Rest_Client.Properties.Resources.resources
+C:\Users\vladi\RiderProjects\Rest_Client\Rest_Client\obj\Debug\Rest_Client.csproj.GenerateResource.cache
+C:\Users\vladi\RiderProjects\Rest_Client\Rest_Client\obj\Debug\Rest_Client.csproj.CoreCompileInputs.cache
+C:\Users\vladi\RiderProjects\Rest_Client\Rest_Client\obj\Debug\Rest_Client.exe
+C:\Users\vladi\RiderProjects\Rest_Client\Rest_Client\obj\Debug\Rest_Client.pdb
+C:\Users\vladi\RiderProjects\Rest_Client\Rest_Client\obj\Debug\Rest_Client.Form1.resources
